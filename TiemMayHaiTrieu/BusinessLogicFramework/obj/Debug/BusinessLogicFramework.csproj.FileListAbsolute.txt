@@ -1,0 +1,30 @@
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe.config
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Debug\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\Zlib.Portable.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Debug\Zlib.Portable.xml

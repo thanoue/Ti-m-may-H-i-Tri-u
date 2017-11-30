@@ -1,0 +1,18 @@
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe.config
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\bin\Release\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.csprojResolveAssemblyReference.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\DataAcessFramework\obj\Release\DataAcessFramework.pdb

@@ -1,0 +1,150 @@
+c:\users\mypc\documents\visual studio 2015\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.Properties.Resources.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDangNhap.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhachHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemKhachHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmNhanVien.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemNhanVien.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDangNhap.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhachHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmMain.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmNhanVien.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemKhachHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemNhanVien.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.Properties.Resources.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoVai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoDangMay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDatHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBangLuong.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmHangCholay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLichHenHomNay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanVai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLuuTru.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSua.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmMain2.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachHangDaNhan.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoChoThue.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanAo.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThueAoMoi.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoChoThue.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoDangMay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanAo.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBangLuong.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanVai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachHangDaNhan.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSua.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDatHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmHangCholay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoVai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLichHenHomNay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLuuTru.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmMain2.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmMayAo.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThueAoMoi.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoChoThue.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmAoDangMay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBangLuong.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmBanVai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDangNhap.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachHangDaNhan.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSua.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDatHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmHangCholay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhachHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmKhoVai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLichHenHomNay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmLuuTru.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmMayAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmNhanVien.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemKhachHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThemNhanVien.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmThueAoMoi.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.Properties.Resources.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe.config
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\TiemMayHaiTrieu.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmChoThu.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmChoSua.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachAoDaNha.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmCapNhatHeSoLuong.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\log4net.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.IO.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Runtime.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Zlib.Portable.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\log4net.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.IO.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Runtime.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Debug\Zlib.Portable.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmDanhSachHoaDonMayAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmInsertCTHDMay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.ReportDemo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\TiemMayHaiTrieu.frmChietLuongThangNV.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\RdlCompile.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Debug\RdlCompile.compiled

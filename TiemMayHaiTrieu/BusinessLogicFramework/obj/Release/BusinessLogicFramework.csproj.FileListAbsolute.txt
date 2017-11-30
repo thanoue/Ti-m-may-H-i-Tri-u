@@ -1,0 +1,30 @@
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe.config
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\Zlib.Portable.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\bin\Release\Zlib.Portable.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.csprojResolveAssemblyReference.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\BusinessLogicFramework\obj\Release\BusinessLogicFramework.pdb

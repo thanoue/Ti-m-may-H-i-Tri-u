@@ -1,0 +1,150 @@
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoDangMay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBangLuong.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanVai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDangNhap.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSua.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDatHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmHangCholay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhachHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoVai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmLichHenHomNay.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmLuuTru.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmMain.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmMain2.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmNhanVien.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemKhachHang.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemNhanVien.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.Properties.Resources.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.exe
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.pdb
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachHangDaNhan.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.exe.config
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoChoThue.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanAo.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+E:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThueAoMoi.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.exe.config
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoChoThue.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoDangMay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanAo.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBangLuong.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanVai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDangNhap.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachHangDaNhan.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSua.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDatHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmHangCholay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhachHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoVai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmLichHenHomNay.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmLuuTru.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmMain2.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmNhanVien.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemKhachHang.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemNhanVien.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThueAoMoi.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.Properties.Resources.resources
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.exe
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.pdb
+D:\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmMayAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe.config
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csprojResolveAssemblyReference.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoChoThue.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmAoDangMay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBangLuong.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmBanVai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmCapNhatHeSoLuong.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmChietLuongThangNV.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmChoSua.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmChoThu.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDangNhap.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachHoaDonMayAo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSua.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDanhSachSuaNgoai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDatHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmHangCholay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmInsertCTHDMay.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhachHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoAoChoThue.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmKhoVai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmLuuTru.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmNhanVien.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmSuaAoNgoai.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemKhachHang.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThemNhanVien.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmThueAoMoi.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.Properties.Resources.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.ReportDemo.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmDatHang.vi-VN.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.csproj.GenerateResource.Cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\RdlCompile.cache
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\RdlCompile.compiled
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\TiemMayHaiTrieu.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\vi-VN\TiemMayHaiTrieu.resources.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\log4net.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.IO.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.WebRequest.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Runtime.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Threading.Tasks.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Zlib.Portable.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BusinessLogicFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\log4net.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.IO.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Net.Http.WebRequest.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Runtime.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\System.Threading.Tasks.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\Zlib.Portable.xml
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\bin\Release\DataAcessFramework.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\vi-VN\TiemMayHaiTrieu.resources.dll
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.exe
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.pdb
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmMain.resources
+C:\Users\Sin\Documents\Visual Studio 2017\Projects\TiemMayHaiTrieu\TiemMayHaiTrieu\TiemMayHaiTrieu\obj\Release\TiemMayHaiTrieu.frmChiTietThuTheoNgay.resources
